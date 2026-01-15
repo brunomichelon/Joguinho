@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "allegro5.h": "c",
+        "objetos.h": "c",
+        "allegro_font.h": "c",
+        "projetil.h": "c",
+        "allegro_primitives.h": "c",
+        "unistd.h": "c",
+        "entidades.h": "c",
+        "allegro_acodec.h": "c",
+        "allegro_audio.h": "c",
+        "input.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
